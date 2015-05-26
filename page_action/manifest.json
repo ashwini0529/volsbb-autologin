@@ -1,0 +1,10 @@
+{
+	"manifest_version" : 2,
+	"name":"browser_action",
+	"version": "0.1.0",
+	"description" : "A developer tool action extension",
+	"author" :"Ashwini Purohit",
+	"browser_action": {
+		"default-title": "Volsbb auto login"
+	}
+}
